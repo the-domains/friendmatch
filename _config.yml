@@ -1,0 +1,28 @@
+name: FriendMatch
+favicon: null
+layout_spectrum: 0.23026550188660622
+typography_spectrum: 0.7340076600667089
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9666908585932106
+  lightness: 0.6237782484386116
+  saturation: 0.7315655106212944
+  rhythmicContrast: 0.05640533077530563
+purpose: []
